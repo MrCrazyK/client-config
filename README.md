@@ -1,2 +1,2 @@
 # gitSettings
-设置仓库
+配置仓库
